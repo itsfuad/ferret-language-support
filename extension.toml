@@ -1,5 +1,5 @@
-id = "ferret"
-name = "Ferret"
+id = "ferret-language-support"
+name = "Ferret language support"
 description = "Ferret language support for Zed"
 version = "0.0.1"
 schema_version = 1
