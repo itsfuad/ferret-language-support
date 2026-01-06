@@ -20,6 +20,7 @@
   "catch"
   "import"
   "map"
+  "mut"
 ] @keyword
 
 ; Boolean literals
